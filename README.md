@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gift19
+- 👋 Hi, I’m @Gift
 - 👀 I’m interested in learning new things that i can implement
 - 
 -   ...
